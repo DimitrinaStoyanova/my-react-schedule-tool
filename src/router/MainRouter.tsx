@@ -5,7 +5,7 @@ import {
   } from "react-router-dom";
   import { Routes } from "../models/Routes";
 import Header from "../components/navigation/Header";
-import DashboardPage from "../pages/DashboardPage";
+import DashboardPage from "../pages/dashboard/DashboardPage";
 import SchedulePage from "../pages/shedule/SchedulePage";
 
   const MainRouter = () => {
