@@ -1,0 +1,9 @@
+.schedule-table-container{
+    width: 800px;
+}
+
+.btn-autocomplete {
+    background-color: #FF1493;
+    color: white ;
+    border: 1px solid #FF1493;
+}
